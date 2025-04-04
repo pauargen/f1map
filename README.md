@@ -26,7 +26,7 @@ To run this project, you need to have the following Python packages installed:
 - `matplotlib`
 - `folium`
 
-The resoulting map can be uplodeaded to github pages:
+The generated map can be viewed in the following link:
 https://mapasf1.github.io/
 
 ![image](https://github.com/user-attachments/assets/17b66f72-a519-438c-9f8d-c9431c455b45)
